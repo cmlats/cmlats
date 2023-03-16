@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cmlats
-- ☕ Hi, I'm a java developer
-- 👀 I’m interested in javascript frameworks that React, Angular and Vue.js
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Cemil Ates
+- ☕ I'm a Fullstack Developer and BPM Designer
+- 👀 I’m interested in javascript frameworks that Angular and Vue.js
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
